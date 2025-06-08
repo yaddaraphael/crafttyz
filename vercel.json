@@ -3,3 +3,10 @@
     { "source": "/", "destination": "/home" }
   ]
 }
+{
+  "build": {
+    "env": {
+      "NPM_CONFIG_PRODUCTION": "false"
+    }
+  }
+}
